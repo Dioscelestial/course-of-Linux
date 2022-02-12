@@ -33,6 +33,7 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 > User@Name-PC:~$  
 > Desktop Downloads Pictures Public Templates Videos  
 > Documents Music piper snap ti workspace_v11  
+<img align="center" src="/Images/ls_ejemplo.png">
 <span style="display:block;text-align:center"> ![ls](/Images/ls_ejemplo.png)
 
 - **Clear**
