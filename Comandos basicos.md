@@ -50,11 +50,11 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 > Documents Music piper snap ti workspace_v11  
 <p align="center"><img src="/Images/ls_ejemplo.png" /></p>
 
--- *-l*
+    - *-l*
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de los directorios
 
--- *-la*
+    - *-la*
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de todos los directorios
 
