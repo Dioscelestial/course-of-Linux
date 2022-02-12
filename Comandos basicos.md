@@ -14,9 +14,7 @@ Se usa para visualizar el directorio actual.
 Se usa para moverse entre los directorios.
 
 > Ejemplo:
->> User@Name-PC:~$ cd /
->>> La **/** es la carpeta raiz, de donde se dividen en el resto de directorios.
-
+>> User@Name-PC:~$ cd / 
 >> User@Name-PC:/$
 >> ![cd](/Images/cd_ejemplo.png)
 
