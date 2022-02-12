@@ -41,16 +41,17 @@ Se usa para limpiar la pantalla y borrar todos los comandos anteriores.
 
 > Ejemplo:  
 > User@Name-PC:~$ Clear  
-<p align="center"><img src="/Images/clear_ejemplo.png" /></p>
+<p align="center"><img src="/Images/clear1_ejemplo.png" /></p>
+<p align="center"><img src="/Images/clear2_ejemplo.png" /></p>
 
 ## Modo Root
 
 El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema.
 Para habilitar el modo root, se usa **sudo su**.
 
-> Ejemplo:
-> User@Name-PC:~$ sudo su
-> '[sudo]' password for User: []
-> root@User@Name-PC: /home/User#
+> Ejemplo:  
+> User@Name-PC:~$ sudo su  
+> [sudo] password for User: []  
+> root@User@Name-PC: /home/User#  
 
 <p align="center"><img src="/Images/sudoSu_ejemplo.png" /></p>
