@@ -1,12 +1,14 @@
 ## Comandos basicos de linux
 
 - pwd
+
 Se usa para visualizar el directorio actual.
 > Ejemplo:
 >> User@name-PC:~$ pwd
 >> /home/User
->> ![pwd](/Images/pwd_ejemplo_ejemplo.png)
+>> ![pwd](/Images/pwd_ejemplo.png)
 - cd
+
 Se usa para moverse entre los directorios.
 > Ejemplo:
 >> User@Name-PC:~$ cd / 
@@ -18,6 +20,7 @@ Se usa para moverse entre los directorios.
 >> User@name-PC:/home$
 >> ![cdBack](/Images/cdBack_ejemplo.png)
 - ls
+
 Se usa para visualizar todos los directorios disponibles apartir del directorio en el que se encuentra
 > Ejemplo:
 >> User@Name-PC:~$
