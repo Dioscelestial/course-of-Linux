@@ -29,14 +29,14 @@ Tambien se utiliza **cd** para regresar a la carpeta de usuario.
 
 > Ejemplo:  
 > User@name-PC:~/.local/share/sounds$ cd  
-> User@name-PC:~$
+> User@name-PC:~$  
 <p align="center"><img src="/Images/cdProfile_ejemplo.png" /></p>
 
 Tambien se utiliza **cd /directorio/ejemplo** para ir directamente a la ruta especificada.
 
 > Ejemplo:  
-> User@Name-PC:~$ cd .local/share/sounds/
-> User@name-PC:~/.local/share/sounds$ 
+> User@Name-PC:~$ cd .local/share/sounds/  
+> User@name-PC:~/.local/share/sounds$  
 <p align="center"><img src="/Images/cdRoute_ejemplo.png" /></p>
 
 
@@ -50,11 +50,11 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 > Documents Music piper snap ti workspace_v11  
 <p align="center"><img src="/Images/ls_ejemplo.png" /></p>
 
-    - *-l*
+    *-l*
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de los directorios
 
-    - *-la*
+    *-la*
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de todos los directorios
 
