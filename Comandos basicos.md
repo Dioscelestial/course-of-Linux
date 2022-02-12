@@ -1,6 +1,6 @@
-## Comandos basicos de linux
+#### Comandos basicos de linux
 
-- *pwd*
+- **pwd**
 
 Se usa para visualizar el directorio actual.
 > Ejemplo:
@@ -8,7 +8,7 @@ Se usa para visualizar el directorio actual.
 >> /home/User
 >> ![pwd](/Images/pwd_ejemplo.png)
 
-- *cd*
+- **cd**
 
 Se usa para moverse entre los directorios.
 > Ejemplo:
@@ -22,7 +22,7 @@ Tambien se utiliza **cd ..** para retroceder en los archivos
 >> User@name-PC:/home$
 >> ![cdBack](/Images/cdBack_ejemplo.png)
 
-- *ls*
+- **ls**
 
 Se usa para visualizar todos los directorios disponibles apartir del directorio en el que se encuentra
 > Ejemplo:
