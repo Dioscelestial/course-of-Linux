@@ -1,6 +1,6 @@
 # Comandos basicos de linux
 
-    pwd
+- **pwd**
 
 Se usa para visualizar el directorio actual.
 
@@ -9,7 +9,7 @@ Se usa para visualizar el directorio actual.
 > /home/User  
 <p align="center"><img src="/Images/pwd_ejemplo.png" /></p>
 
-    cd
+- **cd**
 
 Se usa para moverse entre los directorios.
 
@@ -28,19 +28,19 @@ Tambien se utiliza **cd ..** para retroceder en los archivos.
 Tambien se utiliza **cd** para regresar a la carpeta de usuario.
 
 > Ejemplo:  
-> User@name-PC:~/.local/share/sounds$ cd  
+> User@name-PC:-/.local/share/sounds$ cd  
 > User@name-PC:~$  
 <p align="center"><img src="/Images/cdProfile_ejemplo.png" /></p>
 
 Tambien se utiliza **cd /directorio/ejemplo** para ir directamente a la ruta especificada.
 
 > Ejemplo:  
-> User@Name-PC:~$ cd .local/share/sounds/  
+> User@Name-PC:-$ cd .local/share/sounds/  
 > User@name-PC:~/.local/share/sounds$  
 <p align="center"><img src="/Images/cdRoute_ejemplo.png" /></p>
 
 
-    ls
+- **ls**
 
 Se usa para visualizar todos los directorios disponibles apartir del directorio en el que se encuentra.
 
@@ -54,7 +54,7 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de los directorios
 
-    ls *-la*
+    ls -la
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de todos los directorios
 
@@ -69,13 +69,55 @@ Se usa para limpiar la pantalla y borrar todos los comandos anteriores.
 
 - **cat**
 
-Se usa para visualizar el contenido de un archivo
+Se usa para visualizar el contenido de un archivo.
 
 > Ejemplo:
 
 - **echo**
 
-Se utiliza para imprimir un mensaje por pantalla
+Se utiliza para imprimir un mensaje por pantalla.
+
+> Ejemplo:
+
+- **cp**
+
+Se utiliza para copiar archivos de un directorio a otro.
+
+> Ejemplo:
+
+- **help**
+
+Se utiliza para ver todo la informacion sobre un comando o ayuda en el terminal.
+
+> Ejemplo:
+
+- **man**
+
+Se utiliza para visualizar un manual de usuario sobre algun comandos
+
+> Ejemplo:
+> User@Name-PC:~$ man cat
+> User@Name-PC:~$ *informacion del comando*
+
+- **history**
+
+Se utiliza para visualizar todo el historial de comandos utilizados.
+
+> Ejemplo:
+
+- **uname**
+
+Nos da informacion sobre el sistema.
+
+    uname -a
+
+Es un parametro que muestra toda la informacion extensa.
+
+- **head**
+
+> Ejemplo:
+
+- **tail** 
 
 > Ejemplo:
 
