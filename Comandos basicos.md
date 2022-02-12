@@ -17,7 +17,7 @@ Se usa para moverse entre los directorios.
 >> User@Name-PC:/$
 >> ![cd](/Images/cd_ejemplo.png)
 
-> Tambien se utiliza **cd ..** para retroceder en los archivos
+Tambien se utiliza **cd ..** para retroceder en los archivos
 >> User@Name-PC:~$ cd ..
 >> User@name-PC:/home$
 >> ![cdBack](/Images/cdBack_ejemplo.png)
