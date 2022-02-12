@@ -1,6 +1,6 @@
 # Comandos basicos de linux
 
-- **pwd**
+    pwd
 
 Se usa para visualizar el directorio actual.
 
@@ -9,7 +9,7 @@ Se usa para visualizar el directorio actual.
 > /home/User  
 <p align="center"><img src="/Images/pwd_ejemplo.png" /></p>
 
-- **cd**
+    cd
 
 Se usa para moverse entre los directorios.
 
@@ -40,7 +40,7 @@ Tambien se utiliza **cd /directorio/ejemplo** para ir directamente a la ruta esp
 <p align="center"><img src="/Images/cdRoute_ejemplo.png" /></p>
 
 
-- **ls**
+    ls
 
 Se usa para visualizar todos los directorios disponibles apartir del directorio en el que se encuentra.
 
@@ -50,11 +50,11 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 > Documents Music piper snap ti workspace_v11  
 <p align="center"><img src="/Images/ls_ejemplo.png" /></p>
 
-    *-l*
+    ls -l
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de los directorios
 
-    *-la*
+    ls *-la*
 
 Es un parametro de **ls** el cual funciona para hacer un listado largo de todos los directorios
 
