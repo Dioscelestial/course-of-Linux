@@ -1,5 +1,5 @@
 # Comandos basicos de linux
-===========================
+=========================
 - **pwd**
 
 Se usa para visualizar el directorio actual.
@@ -17,7 +17,7 @@ Se usa para moverse entre los directorios.
 >> User@Name-PC:~$ cd / 
 >>> La **/** es la carpeta raiz, de donde se dividen en el resto de directorios.
 >> User@Name-PC:/$
->> ![cd](/Images/cd_ejemplo.png)
+![cd](/Images/cd_ejemplo.png)
 
 Tambien se utiliza **cd ..** para retroceder en los archivos.
 
@@ -31,7 +31,9 @@ Se usa para visualizar todos los directorios disponibles apartir del directorio 
 
 > Ejemplo:
 >> User@Name-PC:~$
->> Desktop    Downloads  Pictures  Public  Templates  Videos Documents Music piper snap ti workspace_v11
+>> Desktop Downloads Pictures Public Templates Videos 
+>> Documents Music piper snap ti workspace_v11
+
 >> ![ls](/Images/ls_ejemplo.png)
 
 - **Clear**
@@ -51,4 +53,5 @@ Para habilitar el modo root, se usa **sudo su**.
 >> User@Name-PC:~$ sudo su
 >> '[sudo]' password for User: []
 >> root@User@Name-PC: /home/User#
+
 >> ![sudoSu](/Images/sudoSu_ejemplo.png)
